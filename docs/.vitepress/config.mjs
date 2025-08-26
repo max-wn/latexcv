@@ -27,7 +27,7 @@ export default defineConfig({
       {
         text: 'Donate',
         items: [
-          { text: 'Sponsor on GitHub', link: 'https://github.com/sponsors/jankpunkt' },
+          { text: 'Sponsor on GitHub', link: 'https://github.com/sponsors/jankapunkt' },
           { text: 'Via PayPal', link: 'https://paypal.me/kuesterjan' }
         ]
       }
